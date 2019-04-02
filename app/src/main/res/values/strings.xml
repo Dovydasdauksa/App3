@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name_name_text">My Application</string>
+    <string name="input_input_name_hint">Input Your Name</string>
+    <string name="button_text">Button</string>
+    <string name="name_text">Your name is</string>
+    <string name="name_tekstas">Name</string>
+    <string name="your_name">Your name is</string>
+</resources>
